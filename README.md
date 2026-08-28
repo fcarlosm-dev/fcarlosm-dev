@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mim
 - 🚀 Atualmente trabalho na área de TI de um banco na área de Infraestutura e Operações.
 - 🚴‍♂️ Nas horas vagas, gosto de praticar ciclismo, cicloturismo quando possível, e novas amizades.
-- 🛠️ Estou iniciando estudos em programação e desenvolvimento de sistemas para desenvolvimento profissional, pessoal e partcipar de futuros projetos em **Python**, **HTML** e **CCS**.
+- 🛠️ No momento dei início nos estudos de programação e desenvolvimento de sistemas em linguagem **Python**, para meu crescimento profissional e participar de futuros projetos. E em breve iniciar também os estudos em **HTML** e **CCS**.
 
 ---
 
